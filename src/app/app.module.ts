@@ -15,9 +15,6 @@ import {About1Page} from "../pages/about1/about1";
 import {Tab1Page} from "../pages/tab1/tab1";
 import {Contact1Page} from "../pages/contact1/contact1";
 
-import { TranslateModule, TranslateLoader} from '@ngx-translate/core';
-import { TranslateHttpLoader} from '@ngx-translate/http-loader';
-
 @NgModule({
   declarations: [
     MyApp,
